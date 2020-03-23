@@ -4,7 +4,7 @@ Simple little candle-flame code for an Arduino-compatible board and a Neopixel r
 
 ## YouTube Demonstration
 
-(add link here)
+https://youtu.be/dIfQkFB-vng
 
 ## Components
 
